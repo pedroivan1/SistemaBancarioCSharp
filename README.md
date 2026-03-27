@@ -1,8 +1,7 @@
-[🇧🇷 Português](#português) | [🇺🇸 English](#english)
-## 🇧🇷 Português
+## Português
 ## Sistema Bancário em C#
 
-## Projeto desenvolvido como atividade prática.
+> Projeto desenvolvido como atividade prática.
 
 > Funcionalidades
 - Saque
@@ -17,10 +16,10 @@
 - Clone o repositório
 - Use dotnet run no terminal
 
-## 🇺🇸 English
+## English
 ## Banking System in C#
 
-## Project developed as a practical activity.
+> Project developed as a practical activity.
 
 > Features
 - Withdrawal
