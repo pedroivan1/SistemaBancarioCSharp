@@ -14,7 +14,7 @@ public class ContaBancaria
         Saldo = saldo;
     }
 }
-public class Banco
+public static class Banco
 {
 
     // Recepcionar usuário - Método sem retorno
@@ -94,7 +94,7 @@ public class Banco
             UI.Erro("Quantia inválida.");
         }
     }
-
+    // Depositar - Método sem retorno
     public static void Depositar(ContaBancaria conta)
     {
         Console.Write("Quanto você deseja depositar? ");
@@ -116,6 +116,7 @@ public class Banco
             UI.Erro("Quantia inválida.");
         }
     }
+    // Sacar - Método sem retorno
     public static void Sacar(ContaBancaria conta)
     {
         Console.Write("Quanto você deseja sacar? ");
