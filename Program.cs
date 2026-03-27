@@ -23,25 +23,25 @@ class Program
 
             switch (opcao)
             {
-                case "1": // Sacar
+                case "1": // Sacar - Método sem retorno
                     Banco.Sacar(contaBancaria);
                     UI.Aguardar();
                     break;
-                case "2": // Depositar
+                case "2": // Depositar - Método sem retorno
                     Banco.Depositar(contaBancaria);
                     UI.Aguardar();
                     break;
-                case "3": // Transferir I 
+                case "3": // Transferir I - Método com sobregarga
                     Banco.Transferir(contaBancaria);
                     UI.Aguardar();
                     break;
-                case "4": // Transferir II
+                case "4": // Transferir II - Método com sobrecarga
                     Console.Write("Para quem você deseja transferir? ");
                     string destinatario = Console.ReadLine();
                     Banco.Transferir(contaBancaria, destinatario);
                     UI.Aguardar();
                     break;
-                case "5": // Ver saldo
+                case "5": // Ver saldo - Método sem retorno
                     Banco.MostrarSaldo(contaBancaria);
                     UI.Aguardar();
                     break;
