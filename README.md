@@ -1,7 +1,7 @@
 ## Português
-## Sistema Bancário em C#
+> Sistema Bancário em C#
 
-> Projeto desenvolvido como atividade prática.
+Projeto desenvolvido como atividade prática.
 
 > Funcionalidades
 - Saque
@@ -17,9 +17,9 @@
 - Use dotnet run no terminal
 
 ## English
-## Banking System in C#
+> Banking System in C#
 
-> Project developed as a practical activity.
+Project developed as a practical activity.
 
 > Features
 - Withdrawal
