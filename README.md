@@ -2,11 +2,14 @@ Sistema Bancário em C#
 
 Projeto desenvolvido como atividade prática.
 
-> Funcionalidades
+> ## Funcionalidades
 - Saque
 - Depósito
 - Transferência
 - Consulta de saldo
 
-> Linguagem utilizada
+> ## Linguagem utilizada
 - C#
+
+> ## Como executar
+dotnet run
