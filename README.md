@@ -12,4 +12,4 @@ Projeto desenvolvido como atividade prática.
 - C#
 
 > ## Como executar
-dotnet run
+- dotnet run
